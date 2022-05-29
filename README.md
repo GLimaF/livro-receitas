@@ -2,6 +2,7 @@
 
 Olá, seja bem vindo ao meu livro de receitas! :smile:
 
-- Torta de Limão
-- Tikka Masala
+- Torta de Limão :lemon:
+- Tikka Masala :chicken:
+- Trifle :chocolate_bar:
 
